@@ -1,5 +1,5 @@
 
-# !!! TThis repository will not be further developed. From January 2021 I will only make adjustments to the original repository !!!
+# !!! This repository will not be further developed. From January 2021 I will only make adjustments to the original repository !!!
 
 
 <!-- omit in toc -->

@@ -1,3 +1,7 @@
+
+# !!! TThis repository will not be further developed. From January 2021 I will only make adjustments to the original repository !!!
+
+
 <!-- omit in toc -->
 # Modification of the original firmware for working with the RepRapFirmware 3 through the AUX
 ### Tested with firmware [RepRapFirmware 3.2-RC2 Port for LPC and STM32F4 (v3.2-RC2_2)](https://github.com/gloomyandy/RepRapFirmware/releases/tag/v3.2-RC2_2)
